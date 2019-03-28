@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "apollo-server"
+		},
+		{
+			"path": "apollo-client"
+		}
+	],
+	"settings": {}
+}
